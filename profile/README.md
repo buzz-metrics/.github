@@ -1,4 +1,4 @@
-# Buzz Metrics
+# Bee Hive Metrics
 Bee hive telemtry systems, based on the [EPICS-containers platform](https://github.com/epics-containers/)
 
 
@@ -7,7 +7,9 @@ Bee hive telemtry systems, based on the [EPICS-containers platform](https://gith
 | ---------- | --- | ---------- |
 | [Dev-Services](https://github.com/buzz-metrics/dev-services) | [![CI](https://github.com/buzz-metrics/dev-services/actions/workflows/verify.yml/badge.svg)](https://github.com/buzz-metrics/dev-services/actions/workflows/verify.yml) | Kubernetes IOC services relating to development hives. |
 | [IOC-Hive-Controller](https://github.com/buzz-metrics/ioc-hive-controller) | [![CI](https://github.com/buzz-metrics/ioc-hive-controller/actions/workflows/ci.yml/badge.svg)](https://github.com/buzz-metrics/ioc-hive-controller/actions/workflows/ci.yml) | The python-based EPICS IOC for the Hive-Controller. |
+| [Sim-Hive-Controller](https://github.com/buzz-metrics/sim-hive-controller) | [![CI](https://github.com/buzz-metrics/sim-hive-controller/actions/workflows/ci.yml/badge.svg)](https://github.com/buzz-metrics/sim-hive-controller/actions/workflows/ci.yml) | A simulation of the controller API for faster development. |
 | [Hive-Controller](https://github.com/buzz-metrics/hive-control-unit) | N/A | Software and hardware relating to the hive telemetry unit and its construction. |
+
 
 
 <!-- Private Repos -->
